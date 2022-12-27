@@ -28,6 +28,7 @@ p {
 
 picture > * {
     width: 100%;
+    height: 100%;
     border-top-left-radius: 2%;
     border-bottom-left-radius: 2%;
 }
